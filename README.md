@@ -1,11 +1,9 @@
 # goso_helper
 
 ## 참고
-
-추가적인 설명이 있는 블로그
+[추가적인 설명이 있는 블로그](https://y2sman.github.io/2019/12/30/2019_12_30/)
 
 ## 설치
-
 python3 에서 작동합니다.
 
     pip install requests
@@ -15,14 +13,9 @@ python3 에서 작동합니다.
 
 위의 패키지가 필요합니다.
 
-
-
 추가적으로 pdfkit을 사용하기 위해, https://wkhtmltopdf.org/ 이 필요합니다. 윈도우 기준으로 기본 옵션으로 설치했을 경우 그냥 작동합니다. 타 OS의 경우 pdfkit의 config에서 wkhtmltopdf의 경로를 변경해야 작동합니다.
 
-
-
 ## How to Use
-
 대상 갤러리의 주소가 필요합니다.
 
     https://gall.dcinside.com/board/view/?id=iu_new&no=4799774&page=1
